@@ -3,6 +3,6 @@
 NOME: Roberto 
 SOBRENOME: Braga
 IDADE: 26
-PROFISÃO ANTES DA SMN: Growth Hacker
+PROFISÃO ANTES DA SMN: Estagiário
 
 ####################################################
