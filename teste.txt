@@ -3,6 +3,12 @@
 NOME: Luan
 SOBRENOME: Monteiro Pedrosa
 IDADE: 18
+
+####################################################
+
+NOME: Larry Diego
+SOBRENOME: Ferreira de Oliveira
+IDADE: 30
 PROFISÃO ANTES DA SMN: Estudante
 
 ####################################################
