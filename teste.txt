@@ -1,15 +1,15 @@
 --############ DADOS PESSOAIS - HOMOLOG ####################--
 
-<<<<<<< HEAD
 NOME: Luan
 SOBRENOME: Monteiro Pedrosa
-IDADE: 18
-=======
+IDADE: 18  
+
+####################################################
+
 NOME: Lindemberg
 SOBRENOME: da Silva Justino
 IDADE: 28
 PROFISSÃO ANTES DA SMN: Motoboy
->>>>>>> feature-lindemberg
 
 ####################################################
 
