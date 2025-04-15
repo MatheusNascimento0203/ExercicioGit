@@ -3,6 +3,8 @@
 NOME: Luan
 SOBRENOME: Monteiro Pedrosa
 IDADE: 18
+PROFISÃO ANTES DA SMN: Estudante
+
 
 ####################################################
 
