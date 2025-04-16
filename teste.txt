@@ -6,6 +6,3 @@ IDADE: 28
 PROFISSÃO ANTES DA SMN: Motoboy
 
 ####################################################
-
-teste3
-teste3
